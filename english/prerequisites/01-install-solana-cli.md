@@ -4,11 +4,17 @@ The Solana Command Line Interface (CLI) is necessary for interacting with the So
 
 ### Step 1: Download and Install
 
+#### Linux / macOS:
+
 Open your terminal and run the following command:
 
 ```bash
 sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```
+
+#### Windows:
+
+Download the installer from the [Solana website](https://solana.com/developers/guides/getstarted/setup-local-development#dependencies-for-windows).
 
 ### Step 2: Update Your Path
 

@@ -4,11 +4,17 @@ Rust and Cargo are required for installing the SPL Token CLI.
 
 ### Step 1: Install Rust
 
+#### Linux / macOS:
+
 Run the following command to install Rust:
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+
+#### Windows
+
+Download the installer from the [Rust website](https://www.rust-lang.org/tools/install).
 
 Follow the on-screen instructions to complete the installation.
 
