@@ -15,6 +15,7 @@ This repository provides a comprehensive guide to creating and managing tokens o
 3. [Change Token Settings](./token-management/03-change-token-settings.md)
 4. [Make Tokens Immutable](./token-management/04-make-token-immutable.md)
 5. [Remove All Authorities](./token-management/05-remove-all-authorities.md)
+6. [Additional Token Information](./token-management/06-additional-token-info.md)
 
 ---
 
